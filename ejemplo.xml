@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/Kevin/OneDrive/Escritorio/Practica/ejemplo.xsl"?>
+<colonias>
+    <colonia>
+        <nombre>Plan De Ayala</nombre>
+        <habitantes>300000</habitantes>
+    </colonia>
+
+    <colonia>
+        <nombre>Teran</nombre>
+        <habitantes>500000</habitantes>
+    </colonia>
+
+    <colonia>
+        <nombre>Patria Nueva</nombre>
+        <habitantes>250000</habitantes>
+    </colonia>
+</colonias>
